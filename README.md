@@ -35,9 +35,10 @@
 ## Testing
 
 ### W3C 
-### Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightbox code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
+### Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightgallery code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
 
-### how does my site look on mobile, tablet, laptop?, use w3c website to test for html errors, use (jigsaw) validator for css errors, show any ugs you couldn't fix.
+### (Jigsaw) Validator
+### 
 
 ### manual testing, show tale of feature=home nav bar, submit button, social links.
 ### automatic testing, how to automatically test?
