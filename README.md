@@ -14,6 +14,7 @@
 ### The font I have used is simple and easy to understand. I have gone out with the colour which stands out to the eye, I decided to go easier on the fonts in order to not be too distracting and giving people an easy experience.
 ### User experience
 ### I want users to be able to read the information on the site without getting bored, I have included photos in my homepage and links to youtube channels under each event, this I am hoping will give users a sight into what goes on and allows them to have a clear image of the day. I want users to be able to open each link and be able to provide information on any way I can help them through the 'contact us' section.
+
 ### PP4
 ### The videos used on my website all relate to the events I have spoken about, i have added these videos underneith each title, I am hoping this will give more information other than what is included on the site.
 
@@ -51,7 +52,7 @@
 
 ## Deployment
 
-### Deployed on github pages I started by navigating to the websites settings, i got to the drop down menu from the source section and selected the master branch. Once i had selected the master branch, the page automatically refreshed with a display which indicated that the deployment was successful.
+### Deployed on github pages I started by navigating to the websites settings, i got to the drop down menu from the source section and selected the master branch. Once i had selected the master branch, the page automatically refreshed with a display which indicated that the deployment was successful. The link can be found here https://izzo2le.github.io/brightoneventsannually
 
 ## Citations
 
@@ -59,7 +60,7 @@
 
 ## Future features
 
-### I would like to of been able to add music to my website, I also wanted to add in more decoration throughout the site, to give it a better presentation.
+### I would like to of been able to add music to my website, I also wanted to add in more decoration throughout the site such as a background and changed the social links to icons, to give it a better presentation. 
 
 ## Features
 
