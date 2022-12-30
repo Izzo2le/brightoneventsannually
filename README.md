@@ -1,12 +1,14 @@
 # Project 1 - Brighton Annual Events
-
+<hr>
 ## Purpose
-
+<hr>
 ### The project here is to give people information on things happening within Brightom throughout he year. The reason I have decided to do my first portfolio on this subject is because Brighton is such a beautiful, exciting place to visit, it caters to all different crowds; families, couples, parties and many more.I have used this opportunity to explain Brighton to people through the annual events being thrown, in order to give people a reason to visit. 
 ### My website is going to focus on different monthly events which get thrown through the year and will give people ideas on when to visit Brighton and also why to visit.
 
 
 ## User Experience Design UX
+
+
 
 ### Why these colours
 ### The colours I have chosen to use through my website, are colours which are used on the LGBTQ flag which is often insinuated with Brighton. I also added in the pink colour due to having one bit of personalisation to myself.
