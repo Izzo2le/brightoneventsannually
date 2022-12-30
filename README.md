@@ -8,8 +8,6 @@
 
 ## User Experience Design UX
 
-
-
 ### Why these colours
 ### The colours I have chosen to use through my website, are colours which are used on the LGBTQ flag which is often insinuated with Brighton. I also added in the pink colour due to having one bit of personalisation to myself.
 ### Why this font?
@@ -28,18 +26,16 @@
 ### I used this to describe the presentation of my website with HTML through a style sheet.
 
 ### Github
-###
+### I used Github to hold all my repositories and to Github to keep all my documentation safe
 
 ### Gitpod
-### 
-
-### Google Fonts 
-###
-
-### Font Awesome
+### Gitpod was used to write up my code and create my website, this is my main sourceof technology used during this project.
 
 
 ## Testing
+
+### W3C 
+### Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for 
 
 ### how does my site look on mobile, tablet, laptop?, use w3c website to test for html errors, use (jigsaw) validator for css errors, show any ugs you couldn't fix.
 
