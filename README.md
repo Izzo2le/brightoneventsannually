@@ -43,6 +43,7 @@
 ### manual testing, show tale of feature=home nav bar, submit button, social links.
 ### When i manually tested the website, when i click the navigation button it should navigate througout the site, i clicked on each link on my navigation bar, each link took me to the webpage i clicked on.
 ### when I clicked on the submit button on my 'get in touch' page, i filled in the page with my email address, chose a subject and wrote in a message, once i clicked submit it sent the message and cleared the field. I also tried not completing the email correctly which sent an error message telling me I needed to add in all the details needed for an email (e.g.'@')
+### When i clicked on the videos on my events page each one of them played, they allowed me to full screen and skip the video without faulting, i was able to pause the video and come out of full screen at any point.
 
 ### automatic testing, how to automatically test?
 
