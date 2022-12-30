@@ -47,10 +47,11 @@
 # When i clicked on the social media links they took me through to each of the links and opened them in a new page, they allowed me to browse the whole site and interact if I chose to do so.
 
 ### automatic testing, how to automatically test?
+(ADD IN AUTOMATIC TESTING PHOTOS)
 
 ## Deployment
 
-### Deployed on github pages- USE SLACK DIAGRAM (I SENT THIS TO US)
+### Deployed on github pages I started by navigating to the websites settings
 
 ## Citations
 
