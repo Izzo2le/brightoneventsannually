@@ -56,7 +56,37 @@
 
 ## Citations
 
-### photos used & where used fromn- include website, name and article (if there is one), find sites where i foud all the text i used, pages i used to help me get my website going
+### https://www.inyourpocket.com/brighton/top-10-annual-events-in-brighton_76876f
+https://10times.com/sussex-beer-festival
+https://www.brightonfringe.org/
+https://wnbrlondon.uk/
+https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/sport-and-activity/paddle-something-unusual-round-pier
+https://www.timeout.com/brighton/pride
+https://cycle.travel/route/london_to_brighton
+https://www.hagerty.co.uk/articles/events-articles/london-to-brighton/preview-london-to-brighton-veteran-car-run-2022/
+https://samesky.co.uk/events/burning-the-clocks/
+https://www.nationalexpress.com/en/destinations/brighton
+https://www.visitbrighton.com/plan-your-visit/visitor-information/travel-information/getting-here
+https://pixabay.com/photos/brighton-promenade-coast-996723/ - Roman Grac
+https://pixabay.com/photos/brighton-royal-pavilion-night-815306/ - Roman Grac
+https://pixabay.com/photos/brighton-travel-tourism-snack-3354226/- Andreas Göllner 
+https://pixabay.com/photos/hove-brighton-beach-england-huts-696563/ - Willi Heidelbach
+https://pixabay.com/photos/carousel-horse-fun-amusement-ride-1962831/ - Ruth Archer
+https://pixabay.com/illustrations/sunset-pier-structure-ocean-sea-5982423/ - Brian Roe 
+https://pixabay.com/photos/seagull-brighton-summer-sky-bird-2708304/ - Nadia Cripps
+https://pixabay.com/photos/brighton-england-sussex-sea-pier-4577170/ - Howard Walsh
+https://pixabay.com/photos/seafront-brighton-england-sussex-2144263/ - primrose
+https://pixabay.com/photos/observation-tower-i360-seafront-3749573/ - Monica Volpin
+https://pixabay.com/photos/brighton-pier-seaside-fun-fair-4037013/ - Darren Coleshill
+https://pixabay.com/photos/old-pier-brighton-uk-2814377/ - Grid211
+https://pixabay.com/photos/brighton-bandstand-night-1151521/
+https://pixabay.com/photos/cliff-beach-brighton-uk-landscape-1590961/
+https://pixabay.com/photos/brighton-station-train-railway-905615/ - Tim bigger
+https://pixabay.com/photos/brighton-street-travel-light-house-717435/
+https://htmlcolorcodes.com/
+https://pagespeed.web.dev/report?url=https%3A%2F%2Fizzo2le.github.io%2Fbrightoneventsannually%2F&form_factor=desktop 
+https://www.sonarapp.com/discover/success
+
 
 ## Future features
 
