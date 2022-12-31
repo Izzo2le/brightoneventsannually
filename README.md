@@ -94,7 +94,7 @@ https://www.sonarapp.com/discover/success
 ## Future features
 
 ### I would like to of been able to add music to my website, I also wanted to add in more decoration throughout the site such as a background and changed the social links to icons, to give it a better presentation. 
-
+<hr>
 ## Features
 
 ### My website consists of 4 pages; home, annual events, transportation and a contact us page. All these are accessible through my navigation bar. 
