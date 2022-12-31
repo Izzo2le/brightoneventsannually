@@ -92,11 +92,11 @@ https://www.sonarapp.com/discover/success
 
 <hr>
 ## Future features
-
+<hr>
 ### I would like to of been able to add music to my website, I also wanted to add in more decoration throughout the site such as a background and changed the social links to icons, to give it a better presentation. 
 <hr>
 ## Features
-
+<hr>
 ### My website consists of 4 pages; home, annual events, transportation and a contact us page. All these are accessible through my navigation bar. 
 ### I also decided on using a photo gallery on my main page, this allowed me to paint a more realistic picture of Brighton, I wanted to show as much as I could, whilst livening up my homepage. I used the photos I did due to them showing the main sights of Brighton. All my photos are from Pixabay. 
 
