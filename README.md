@@ -90,7 +90,7 @@ https://htmlcolorcodes.com/
 https://pagespeed.web.dev/report?url=https%3A%2F%2Fizzo2le.github.io%2Fbrightoneventsannually%2F&form_factor=desktop 
 https://www.sonarapp.com/discover/success
 
-
+<hr>
 ## Future features
 
 ### I would like to of been able to add music to my website, I also wanted to add in more decoration throughout the site such as a background and changed the social links to icons, to give it a better presentation. 
