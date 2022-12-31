@@ -52,8 +52,10 @@ https://i.pinimg.com/originals/c0/29/20/c02920b5b500bace174c356588715c80.jpg
 ### When i clicked on the social media links they took me through to each of the links and opened them in a new page, they allowed me to browse the whole site and interact if I chose to do so.
 ### Clicking on the links for transportation took me through to the link for trnsport, the first one took me to the train link for national rail and the second took me through to national express.
 
-### automatic testing, how to automatically test?
-(ADD IN AUTOMATIC TESTING PHOTOS)
+### automatic testing
+https://i.pinimg.com/originals/71/5e/d9/715ed9d80f3592f168d11cbb0d731304.jpg - Link to desktop performance 
+
+https://i.pinimg.com/originals/95/22/34/9522346d6ff7c041e8a408d908bf6e68.jpg - Link to mobile performance 
 <hr>
 ## Deployment
 <hr>
