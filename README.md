@@ -52,7 +52,7 @@
 
 ### automatic testing, how to automatically test?
 (ADD IN AUTOMATIC TESTING PHOTOS)
-
+<hr>
 ## Deployment
 
 ### Deployed on github pages I started by navigating to the websites settings, i got to the drop down menu from the source section and selected the master branch. Once i had selected the master branch, the page automatically refreshed with a display which indicated that the deployment was successful. The link can be found here https://izzo2le.github.io/brightoneventsannually
