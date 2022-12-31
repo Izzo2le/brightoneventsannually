@@ -34,9 +34,9 @@
 ### Gitpod
 ### Gitpod was used to write up my code and create my website, this is my main sourceof technology used during this project.
 
-
+<hr>
 ## Testing
-
+<hr>
 ### W3C 
 ### Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightgallery code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
 
