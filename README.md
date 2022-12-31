@@ -58,7 +58,7 @@
 ### Deployed on github pages I started by navigating to the websites settings, i got to the drop down menu from the source section and selected the master branch. Once i had selected the master branch, the page automatically refreshed with a display which indicated that the deployment was successful. The link can be found here https://izzo2le.github.io/brightoneventsannually
 <hr>
 ## Citations
-
+<hr>
 ### https://www.inyourpocket.com/brighton/top-10-annual-events-in-brighton_76876f
 https://10times.com/sussex-beer-festival
 https://www.brightonfringe.org/
