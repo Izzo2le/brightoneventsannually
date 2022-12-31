@@ -19,9 +19,9 @@
 
 ### PP4
 ### The videos used on my website all relate to the events I have spoken about, i have added these videos underneith each title, I am hoping this will give more information other than what is included on the site.
-
+<hr>
 ## Technologies Used
-
+<hr>
 ### HTML 5 
 ### Used this as a markup language, I used this throughout my code in order to present and structure content onthe web.
 
