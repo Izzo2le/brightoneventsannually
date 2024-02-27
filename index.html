@@ -1,98 +1,66 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">	<meta name="description" content="Visit Brighton and experience a full range of activities. why not make a weekend of it?">
-	<meta name="keywords" content="Brighton, Sussex, Weekend breaks, Activities, Beach">
-	<meta name="author" content="Annual Events in Brighton">
-
-
-	<title>Annual Events in Brighon</title>
-	
-	<link rel="stylesheet" type="text/css" media="all"  href="styles.css" /> 
-	<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/css/lightgallery.min.css" />
-	<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/css/lg-thumbnail.min.css" />
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> 
-	
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Visit Brighton and experience a full range of activities. Why not make a weekend of it?">
+    <meta name="keywords" content="Brighton, Sussex, Weekend breaks, Activities, Beach">
+    <meta name="author" content="Annual Events in Brighton">
+    <title>Annual Events in Brighton</title>
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/css/lightgallery.min.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/css/lg-thumbnail.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 </head>
 <body>
-	<div id="container">
-	<header id="home">
-			    <div style="background-color: white;">
-        <h1 style='color:black; text-align:center;'>Brighton up your year</h1>                             
-        <h2 style='color:black; text-align:center;'>Come explore diverse communities, quirky shops and a wide range of events</h2>
+<div id="container">
+    <header id="home">
+        <div style="background-color: white;">
+            <h1 style='color:black; text-align:center;'>Brighton up your year</h1>
+            <h2 style='color:black; text-align:center;'>Come explore diverse communities, quirky shops and a wide range of events</h2>
+        </div>
+    </header>
+    <section>
+        <div id="navigation">
+            <a href="index.html">Home</a>
+            <a href="about.html">Annual Events</a>
+            <a href="service.html">Transportation</a>
+            <a href="contact.html">Get in touch</a>
+        </div>
+    </section>
+    <h2 style='color:white; text-align:center; background-color: #FF1493;'>Reasons to visit Brighton</h2>
+    <hr>
+    <section>
+        <ul>
+            <li>Brighton has a bohemian atmosphere, The North Laine has over 400 independent shops and cafes</li>
+            <li>Brighton has a stunning seaside</li>
+            <li>The UK's most eccentric palace known as The Royal Pavilion</li>
+            <li>Spectacular street art & Graffiti</li>
+            <li>South Downs is on the doorstep</li>
+        </ul>
+    </section>
+    <hr>
+    <div id="lightgallery">
+        <!-- Gallery images here -->
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/lightgallery.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/lightgallery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/plugins/thumbnail/lg-thumbnail.min.js"></script>
+    <script type="text/javascript">
+        lightGallery(document.getElementById('lightgallery'), {
+            plugins: [lgThumbnail],
+            licenseKey: 'your_license_key',
+            speed: 500
+        });
+    </script>
+    <section>
+        <footer>
+            <span>Find us on:</span>
+            <a href="https://en-gb.facebook.com/groups/whatsonbrightonandhove/" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)">Facebook</a>
+            <a href="https://www.instagram.com/visit.brighton/" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)">Instagram</a>
+            <a href="https://twitter.com/welovebrighton" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)">Twitter</a>
+        </footer>
+    </section>
 </div>
-		
-	</header>
-
-	<section>
- 
-	
-  <div id="navigation">
-    <a href="index.html">Home</a>
-    <a href="about.html">Annual Events</a>
-    <a href="service.html">Transportation</a>
-    <a href="contact.html">Get in touch</a>
-</div>
-
-</section>
-		
-		 
-  <h2 style='color:white; text-align:center; background-color: #FF1493;'>Reasons to visit Brighton</h2>
-<hr>
-
-<section>
-<ul>
-    <li>Brighton has a hohemian atmosphere, The North Laine has over 400 independenent shops and cafes </li>
-  <li>Brighton has a stunning seaside </li>
-<li>The Uk's most ecentric palace known as The Royal Pavilion </li>
-<li>Spectacular street art & Graffitti </li>
-<li>South Downs is on the doorstep</li>
-</ul>
-</section>
-		
-	<hr>
-  <hr>
-<!--<img src="https://scontent.flhr3-4.fna.fbcdn.net/v/t39.30808-6/262789420_101652589034093_7618345437986366899_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=CbLdJgOiu7QAX-RSVJb&tn=1lgj6XOvDqD16nJ1&_nc_ht=scontent.flhr3-4.fna&oh=00_AfDxIeNHmJOLNO1WHlZyLxjuZCvExJ3xfWVPTVkTr4mX-Q&oe=63A39D3F" 
-			alt="The sun setting over Brighton pier" width="640">-->
-
-<!-- Start of gallery - Images from https://pixabay.com/images/search/brighton/ -->	
- 
-<div id="lightgallery"> 
-  <img src="assets/images/BeachyHead.jpeg" alt="Beachy Head" id="us-image" >
-<a href="https://pixabay.com/photos/brighton-travel-tourism-snack-3354226.jpg"><img src="https://pixabay.com/get/g91777f89f2e8c3ab104acac21310e9906c6fbd39cf4b1457c2939d04b93234b0ed8933247d3639a8d47621960fc1f004f9c2710dcfafe1d9ca6edf79104c7a17225c4a3a2041fc75e20e7956cdfb3073_1920.jpg" alt="Fish and Chips by Brighton Beach"></a>
-<a href="https://pixabay.com/get/g7e7744a157ad08c6ebea777a9a655cb71b5d237aa7ac55f9dee164c8e1619c361a075f7c02ad79c957d551d6877bea3c349ac978ae501c616f5db5c8811dbc5f0ec2b6d53619182f59be2cabdeea0eda_1920.jpg"><img src="https://pixabay.com/get/g7e7744a157ad08c6ebea777a9a655cb71b5d237aa7ac55f9dee164c8e1619c361a075f7c02ad79c957d551d6877bea3c349ac978ae501c616f5db5c8811dbc5f0ec2b6d53619182f59be2cabdeea0eda_1920.jpg" alt="Beach Huts in Brighton"></a>
-<a href="https://cdn.pixabay.com/photo/2018/12/02/08/44/pier-3850806_960_720.jpg"><img src="https://cdn.pixabay.com/photo/2018/12/02/08/44/pier-3850806_960_720.jpg" alt="Brighton Palace Pier"></a>
-<a href="https://pixabay.com/get/g1a5341bf7627ab234bb6a73d5061afca62fbdc5676a6ad3ecc27b710bae25b1b53bbc6f743051747306944f8770fd5bbcec4cb7d2912b15b7d9cfd56be59d97197abb062c5dfbe076d7baf377bcfa467_1920.jpg"><img src="https://pixabay.com/get/g1a5341bf7627ab234bb6a73d5061afca62fbdc5676a6ad3ecc27b710bae25b1b53bbc6f743051747306944f8770fd5bbcec4cb7d2912b15b7d9cfd56be59d97197abb062c5dfbe076d7baf377bcfa467_1920.jpg" alt="The i360"></a>	
-<a href="https://pixabay.com/get/g7c8706c3a7c2968bd1f95faca414af742e8ad2c1bf8e9d51e03c6fd863325bec5b0c02aa33bcb66b06ca79cc6675ecf1383d3dc469049c3515bee9374bfcf735c3d76d81430711d8376fba06075e1082_1920.jpg"><img src="https://pixabay.com/get/g7c8706c3a7c2968bd1f95faca414af742e8ad2c1bf8e9d51e03c6fd863325bec5b0c02aa33bcb66b06ca79cc6675ecf1383d3dc469049c3515bee9374bfcf735c3d76d81430711d8376fba06075e1082_1920.jpg" alt="The remains of the West pier"></a>
-<a href="https://pixabay.com/get/g8bc06eea0c60dd9ecca41e4b194ee32fd29b5b268e0e0a513471bb9437a06f03abfdef27281a511642adf907a0bf755959bdc0bb8e983b2f6ec88fb6ce25cd9eee771a286c81c59e7d155c41c08cc31d_1920.jpg"><img src="https://pixabay.com/get/g8bc06eea0c60dd9ecca41e4b194ee32fd29b5b268e0e0a513471bb9437a06f03abfdef27281a511642adf907a0bf755959bdc0bb8e983b2f6ec88fb6ce25cd9eee771a286c81c59e7d155c41c08cc31d_1920.jpg" alt="Brighton carousel"></a>
-<a href="https://pixabay.com/get/g8d5317c2b57655c26216be03972bf7fa6c3e1ee5fcfeebf3cbc07bd5aa8ec4e9bc1b3eba33d4d323e230cf9a579b9d208728f1d482067dbafa149b07e4804aa8bb241d084b0db35e87168f4993ddde15_1920.jpg"><img src="https://pixabay.com/get/g8d5317c2b57655c26216be03972bf7fa6c3e1ee5fcfeebf3cbc07bd5aa8ec4e9bc1b3eba33d4d323e230cf9a579b9d208728f1d482067dbafa149b07e4804aa8bb241d084b0db35e87168f4993ddde15_1920.jpg" alt="Brighton Bandstand"></a>
-<a href="https://pixabay.com/get/g26fcddc4fdff68fe620a1acca904039d560801b44c3d6ae32859c31cf49ad3f8432e2b4985766690946a8dfd927017635743c0c24b5565c46f2ead440f7d3d38681d29c7c4f5294a62ee329fdf2c1e59_1920.jpg"><img src="https://pixabay.com/get/g26fcddc4fdff68fe620a1acca904039d560801b44c3d6ae32859c31cf49ad3f8432e2b4985766690946a8dfd927017635743c0c24b5565c46f2ead440f7d3d38681d29c7c4f5294a62ee329fdf2c1e59_1920.jpg" alt="Beachy Head"></a>
-<a href="https://pixabay.com/get/gbe6563ac004207d0df620d6f9c82387d45dfbb81f5478290b4f99b234ad875c0a1c8222160c07e31ad94a6837dd284447dbdc57b504144674db65e182babb57416766521c00fcdea06c104a70d688835_1920.jpg"><img src="https://pixabay.com/get/gbe6563ac004207d0df620d6f9c82387d45dfbb81f5478290b4f99b234ad875c0a1c8222160c07e31ad94a6837dd284447dbdc57b504144674db65e182babb57416766521c00fcdea06c104a70d688835_1920.jpg" alt="A train at Brighton Station"></a>
-<a href="https://pixabay.com/get/g32f7bd484439445b40d5beadfdf6bfc1dbc641202915594927319b5fd88520f1bf806f4f8fb8c09759ae4bfabe71ccb09aebf4c85114b1cba95d8f14c1b006f6982566a800e6a1955b61ffee437d3619_1920.jpg"><img src="https://pixabay.com/get/g32f7bd484439445b40d5beadfdf6bfc1dbc641202915594927319b5fd88520f1bf806f4f8fb8c09759ae4bfabe71ccb09aebf4c85114b1cba95d8f14c1b006f6982566a800e6a1955b61ffee437d3619_1920.jpg" alt="The Brighton Eye seen from a street view in Brighton"></a>
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/lightgallery.umd.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/lightgallery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/plugins/thumbnail/lg-thumbnail.min.js"></script>	
-<type text="text/javascript">
-    
- <hr>
-<section>
- 
-  <footer>
-      <span>Find us on:</span>
-      <a href="https://en-gb.facebook.com/groups/whatsonbrightonandhove/" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)">Facebook</a>
-      <a href="https://www.instagram.com/visit.brighton/" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)">Instagram</a>
-      <a href="https://twitter.com/welovebrighton" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)">Twitter</a> 
-
-      <p>Copyright © Brighton Annual Events 2022</p>
-  </footer>
-</section>
 </body>
-
-</html>
-
-
-
+</html
