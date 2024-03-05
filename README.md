@@ -44,7 +44,7 @@ I used Github to hold all my repositories and to Github to keep all my documenta
 Gitpod was used to write up my code and create my website, this is my main sourceof technology used during this project.
 
 
-## Testing
+## TESTING 
 
 ### W3C 
 
@@ -52,27 +52,30 @@ Using W3C showed me all the errors with my website, I tried to take these all in
 
 ### (JIGSAW) Validator
 
-The one problem shown again is to do with Lightgallery it told me i needed the amend the transition value from 00, again if this was to change it had an effect on the whole site.
+The issue primarily concerned the need to adjust the Lightgallery's transition setting from 00, a change that had widespread effects on site functionality.
 
-manual testing, show tale of feature=home nav bar, submit button, social links.
-When i manually tested the website, when i click the navigation button it should navigate througout the site, i clicked on each link on my navigation bar, each link took me to the webpage i clicked on.
-when I clicked on the submit button on my 'get in touch' page, i filled in the page with my email address, chose a subject and wrote in a message, once i clicked submit it sent the message and cleared the field. I also tried not completing the email correctly which sent an error message telling me I needed to add in all the details needed for an email (e.g.'@')
-### When i clicked on the videos on my events page each one of them played, they allowed me to full screen and skip the video without faulting, i was able to pause the video and come out of full screen at any point.
-### When i clicked on the social media links they took me through to each of the links and opened them in a new page, they allowed me to browse the whole site and interact if I chose to do so.
-### Clicking on the links for transportation took me through to the link for trnsport, the first one took me to the train link for national rail and the second took me through to national express.
+In testing the site's features, such as the home navigation bar, submit button, and social media links, each element performed as expected. Navigation through the site was seamless, with every link guiding me to the correct webpage.
 
-### automatic testing
+On the 'get in touch' page, submitting the form with complete details including an email address, subject, and message worked flawlessly, sending the message and resetting the form. Conversely, omitting vital email components like the '@' symbol resulted in an error message, ensuring all necessary information was provided.
+
+Exploring the events page, each video played smoothly, offering options for full-screen viewing, skipping, pausing, and exiting full-screen mode without issues. Social media links functioned correctly, opening in new tabs and allowing for full site interaction.
+
+Lastly, the transportation links performed as intended, directing me to relevant sites like National Rail and National Express for train and bus services, respectively.
+
+### AUTOMATIC TESTING 
 https://i.pinimg.com/originals/71/5e/d9/715ed9d80f3592f168d11cbb0d731304.jpg - Link to desktop performance 
 
 https://i.pinimg.com/originals/95/22/34/9522346d6ff7c041e8a408d908bf6e68.jpg - Link to mobile performance 
-<hr>
-## Deployment
-<hr>
-### Deployed on github pages I started by navigating to the websites settings, i got to the drop down menu from the source section and selected the master branch. Once i had selected the master branch, the page automatically refreshed with a display which indicated that the deployment was successful. The link can be found here https://izzo2le.github.io/brightoneventsannually
-<hr>
-## Citations
-<hr>
-### https://www.inyourpocket.com/brighton/top-10-annual-events-in-brighton_76876f
+
+## DEPLOYMENT 
+
+### DEPLOYMENT ON GITHUB PAGES
+
+I began by accessing the website's settings and proceeded to the source section, where I chose the master branch from the dropdown menu. After making this selection, the page refreshed automatically, showing a notification that the deployment was successful. The deployed site is accessible at this link: https://izzo2le.github.io/brightoneventsannually.
+
+## CITATIONS
+
+https://www.inyourpocket.com/brighton/top-10-annual-events-in-brighton_76876f
 https://10times.com/sussex-beer-festival
 https://www.brightonfringe.org/
 https://wnbrlondon.uk/
@@ -103,15 +106,14 @@ https://htmlcolorcodes.com/
 https://pagespeed.web.dev/report?url=https%3A%2F%2Fizzo2le.github.io%2Fbrightoneventsannually%2F&form_factor=desktop 
 https://www.sonarapp.com/discover/success
 
-<hr>
-## Future features
-<hr>
-### I would like to of been able to add music to my website, I also wanted to add in more decoration throughout the site such as a background and changed the social links to icons, to give it a better presentation. 
 
-## Features
+## FUTURE FEATURES
 
-### 
 
-My website consists of 4 pages; home, annual events, transportation and a contact us page. All these are accessible through my navigation bar. 
-### I also decided on using a photo gallery on my main page, this allowed me to paint a more realistic picture of Brighton, I wanted to show as much as I could, whilst livening up my homepage. I used the photos I did due to them showing the main sights of Brighton. All my photos are from Pixabay. 
+I wished to enhance my website by incorporating music and adding decorative elements, such as backgrounds and converting the social links into icons, to improve its overall presentation.
 
+## FEATURES
+
+My website features four main sections: Home, Annual Events, Transportation, and a Contact Us page, all of which can be easily navigated via the navigation bar.
+
+To vividly capture and present the essence of Brighton on the main page, I opted for a photo gallery. This choice was driven by the desire to showcase the city's key attractions and breathe life into the homepage. The selected images, all sourced from Pixabay, highlight Brighton's iconic landmarks.
