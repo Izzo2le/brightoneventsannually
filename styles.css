@@ -151,7 +151,22 @@ input[type="submit"] {
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover; /* This makes the image cover the area, cropping it if necessary */
+    object-fit: cover; 
+
+}
+.map-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* Aspect Ratio 16:9 - adjust as needed for your map */
+    height: 0;
+}
+
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 footer {
@@ -160,7 +175,7 @@ footer {
     border-top: 1px solid #000;
 }
 
-/* Responsive adjustments */
+
 @media (max-width: 768px) {
     h1 {
         font-size: 1.8em;

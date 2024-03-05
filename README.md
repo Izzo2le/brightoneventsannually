@@ -1,53 +1,62 @@
-# Project 1 - Brighton Annual Events
-<hr>
-## Purpose
-<hr>
-### The project here is to give people information on things happening within Brightom throughout he year. The reason I have decided to do my first portfolio on this subject is because Brighton is such a beautiful, exciting place to visit, it caters to all different crowds; families, couples, parties and many more.I have used this opportunity to explain Brighton to people through the annual events being thrown, in order to give people a reason to visit. 
-### My website is going to focus on different monthly events which get thrown through the year and will give people ideas on when to visit Brighton and also why to visit.
+# Brighton Annual Events
 
-<hr>
+ This project aims to provide insights into the vibrant events occurring in Brighton year-round. I chose to focus my initial portfolio on Brighton due to its dynamic appeal, welcoming diverse groups such as families, couples, and party-goers with its unique charm. By showcasing the array of annual events hosted in Brighton, I hope to offer compelling reasons for people to explore this lively city.
+
+My website will highlight the various events that take place each month, offering visitors suggestions on the best times to visit and showcasing the myriad reasons why Brighton should be their next destination..
+
 ## User Experience Design UX
 
-<hr>
-https://i.pinimg.com/originals/c0/29/20/c02920b5b500bace174c356588715c80.jpg 
-<hr>
+### FIND IMAGE OF WEBSOTE
 
-### Why these colours
-### The colours I have chosen to use through my website, are colours which are used on the LGBTQ flag which is often insinuated with Brighton. I also added in the pink colour due to having one bit of personalisation to myself.
-### Why this font?
-### The font I have used is simple and easy to understand. I have gone out with the colour which stands out to the eye, I decided to go easier on the fonts in order to not be too distracting and giving people an easy experience.
+### Colour scheme
+
+The color palette I've selected for my website draws inspiration from the LGBTQ flag, a symbol frequently associated with Brighton. Additionally, I've incorporated pink into the design as a personal touch, adding a bit of my own flair to the site.
+
+### Font choice
+
+I've chosen a straightforward and user-friendly font for the website. To balance the vivid colors that catch the eye, I opted for simpler fonts to avoid overwhelming visitors, ensuring a smooth and accessible browsing experience
+
 ### User experience
-### I want users to be able to read the information on the site without getting bored, I have included photos in my homepage and links to youtube channels under each event, this I am hoping will give users a sight into what goes on and allows them to have a clear image of the day. I want users to be able to open each link and be able to provide information on any way I can help them through the 'contact us' section.
 
-### PP4
-### The videos used on my website all relate to the events I have spoken about, i have added these videos underneith each title, I am hoping this will give more information other than what is included on the site.
-<hr>
+My goal is to engage users with the content on the site, ensuring they find it interesting and informative. To achieve this, I've enriched the homepage with photographs and added links to YouTube channels for each event. This approach is designed to offer visitors a glimpse into the events, helping them visualize the experiences. Additionally, I aim to facilitate easy access to assistance through a 'contact us' section, where users can reach out for more information or support.
+
+### PP4 
+
+The videos featured on my website are directly connected to the events discussed. I have placed these videos beneath each event title, aiming to provide further insights beyond the information available on the site.
+
 ## Technologies Used
-<hr>
-### HTML 5 
-### Used this as a markup language, I used this throughout my code in order to present and structure content onthe web.
 
-### CSS 
-### I used this to describe the presentation of my website with HTML through a style sheet.
+### HTML 
 
-### Github
-### I used Github to hold all my repositories and to Github to keep all my documentation safe
+I employed HTML as the markup language across my code to structure and present content on the web effectively.
 
-### Gitpod
-### Gitpod was used to write up my code and create my website, this is my main sourceof technology used during this project.
+### CSS
 
-<hr>
+I used this to describe the presentation of my website with HTML through a style sheet
+
+### GITHUB 
+
+I used Github to hold all my repositories and to Github to keep all my documentation safe
+
+
+### GITPOD
+
+Gitpod was used to write up my code and create my website, this is my main sourceof technology used during this project.
+
+
 ## Testing
-<hr>
+
 ### W3C 
-### Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightgallery code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
 
-### (Jigsaw) Validator
-### The one problem shown again is to do with Lightgallery it told me i needed the amend the transition value from 00, again if this was to change it had an effect on the whole site.
+Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightgallery code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
 
-### manual testing, show tale of feature=home nav bar, submit button, social links.
-### When i manually tested the website, when i click the navigation button it should navigate througout the site, i clicked on each link on my navigation bar, each link took me to the webpage i clicked on.
-### when I clicked on the submit button on my 'get in touch' page, i filled in the page with my email address, chose a subject and wrote in a message, once i clicked submit it sent the message and cleared the field. I also tried not completing the email correctly which sent an error message telling me I needed to add in all the details needed for an email (e.g.'@')
+### (JIGSAW) Validator
+
+The one problem shown again is to do with Lightgallery it told me i needed the amend the transition value from 00, again if this was to change it had an effect on the whole site.
+
+manual testing, show tale of feature=home nav bar, submit button, social links.
+When i manually tested the website, when i click the navigation button it should navigate througout the site, i clicked on each link on my navigation bar, each link took me to the webpage i clicked on.
+when I clicked on the submit button on my 'get in touch' page, i filled in the page with my email address, chose a subject and wrote in a message, once i clicked submit it sent the message and cleared the field. I also tried not completing the email correctly which sent an error message telling me I needed to add in all the details needed for an email (e.g.'@')
 ### When i clicked on the videos on my events page each one of them played, they allowed me to full screen and skip the video without faulting, i was able to pause the video and come out of full screen at any point.
 ### When i clicked on the social media links they took me through to each of the links and opened them in a new page, they allowed me to browse the whole site and interact if I chose to do so.
 ### Clicking on the links for transportation took me through to the link for trnsport, the first one took me to the train link for national rail and the second took me through to national express.
@@ -98,12 +107,11 @@ https://www.sonarapp.com/discover/success
 ## Future features
 <hr>
 ### I would like to of been able to add music to my website, I also wanted to add in more decoration throughout the site such as a background and changed the social links to icons, to give it a better presentation. 
-<hr>
+
 ## Features
-<hr>
-### My website consists of 4 pages; home, annual events, transportation and a contact us page. All these are accessible through my navigation bar. 
+
+### 
+
+My website consists of 4 pages; home, annual events, transportation and a contact us page. All these are accessible through my navigation bar. 
 ### I also decided on using a photo gallery on my main page, this allowed me to paint a more realistic picture of Brighton, I wanted to show as much as I could, whilst livening up my homepage. I used the photos I did due to them showing the main sights of Brighton. All my photos are from Pixabay. 
-
-
-
 
