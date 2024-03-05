@@ -132,15 +132,15 @@ input[type="submit"] {
 }
 #lightgallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Increase the minimum size */
-    gap: 20px; /* Increase the gap between images for better visibility */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px; 
 }
 
 #lightgallery a {
     display: block;
     position: relative;
     width: 100%;
-    padding-top: 100%; /* Increase the aspect ratio to make images taller */
+    padding-top: 100%; 
     overflow: hidden;
 }
 
