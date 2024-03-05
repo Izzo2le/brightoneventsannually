@@ -4,9 +4,18 @@
 
 My website will highlight the various events that take place each month, offering visitors suggestions on the best times to visit and showcasing the myriad reasons why Brighton should be their next destination..
 
-## User Experience Design UX
+## TABLE OF CONTENTS
 
-### FIND IMAGE OF WEBSOTE
+- [User Experience](#user-experience)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Citations](#citations)
+- [Features](#features)
+
+## User Experience 
+
+![screenshot](assets/images/mywebsite.jpg)
 
 ### Colour scheme
 
@@ -34,23 +43,23 @@ I employed HTML as the markup language across my code to structure and present c
 
 I used this to describe the presentation of my website with HTML through a style sheet
 
-### GITHUB 
+### Github
 
 I used Github to hold all my repositories and to Github to keep all my documentation safe
 
 
-### GITPOD
+### Gitpod
 
 Gitpod was used to write up my code and create my website, this is my main sourceof technology used during this project.
 
 
-## TESTING 
+## Testing 
 
 ### W3C 
 
 Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightgallery code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
 
-### (JIGSAW) Validator
+### (Jigsaw) Validator
 
 The issue primarily concerned the need to adjust the Lightgallery's transition setting from 00, a change that had widespread effects on site functionality.
 
@@ -62,18 +71,17 @@ Exploring the events page, each video played smoothly, offering options for full
 
 Lastly, the transportation links performed as intended, directing me to relevant sites like National Rail and National Express for train and bus services, respectively.
 
-### AUTOMATIC TESTING 
-https://i.pinimg.com/originals/71/5e/d9/715ed9d80f3592f168d11cbb0d731304.jpg - Link to desktop performance 
+### Automatic Testing 
 
-https://i.pinimg.com/originals/95/22/34/9522346d6ff7c041e8a408d908bf6e68.jpg - Link to mobile performance 
+![screenshot](assets/images/lighthouse.jpg)
 
-## DEPLOYMENT 
+## Deployment 
 
-### DEPLOYMENT ON GITHUB PAGES
+### Deployment on Github Pages 
 
 I began by accessing the website's settings and proceeded to the source section, where I chose the master branch from the dropdown menu. After making this selection, the page refreshed automatically, showing a notification that the deployment was successful. The deployed site is accessible at this link: https://izzo2le.github.io/brightoneventsannually.
 
-## CITATIONS
+## Citations 
 
 https://www.inyourpocket.com/brighton/top-10-annual-events-in-brighton_76876f
 https://10times.com/sussex-beer-festival
@@ -86,34 +94,29 @@ https://www.hagerty.co.uk/articles/events-articles/london-to-brighton/preview-lo
 https://samesky.co.uk/events/burning-the-clocks/
 https://www.nationalexpress.com/en/destinations/brighton
 https://www.visitbrighton.com/plan-your-visit/visitor-information/travel-information/getting-here
-https://pixabay.com/photos/brighton-promenade-coast-996723/ - Roman Grac
-https://pixabay.com/photos/brighton-royal-pavilion-night-815306/ - Roman Grac
-https://pixabay.com/photos/brighton-travel-tourism-snack-3354226/- Andreas Göllner 
-https://pixabay.com/photos/hove-brighton-beach-england-huts-696563/ - Willi Heidelbach
-https://pixabay.com/photos/carousel-horse-fun-amusement-ride-1962831/ - Ruth Archer
-https://pixabay.com/illustrations/sunset-pier-structure-ocean-sea-5982423/ - Brian Roe 
-https://pixabay.com/photos/seagull-brighton-summer-sky-bird-2708304/ - Nadia Cripps
-https://pixabay.com/photos/brighton-england-sussex-sea-pier-4577170/ - Howard Walsh
-https://pixabay.com/photos/seafront-brighton-england-sussex-2144263/ - primrose
-https://pixabay.com/photos/observation-tower-i360-seafront-3749573/ - Monica Volpin
-https://pixabay.com/photos/brighton-pier-seaside-fun-fair-4037013/ - Darren Coleshill
-https://pixabay.com/photos/old-pier-brighton-uk-2814377/ - Grid211
-https://pixabay.com/photos/brighton-bandstand-night-1151521/
-https://pixabay.com/photos/cliff-beach-brighton-uk-landscape-1590961/
-https://pixabay.com/photos/brighton-station-train-railway-905615/ - Tim bigger
-https://pixabay.com/photos/brighton-street-travel-light-house-717435/
 https://htmlcolorcodes.com/
 https://pagespeed.web.dev/report?url=https%3A%2F%2Fizzo2le.github.io%2Fbrightoneventsannually%2F&form_factor=desktop 
 https://www.sonarapp.com/discover/success
 
+Images were taken by Michael Steven Harris and Dominic Ellett - images were uploaded onto 'Brighton Astro' i was given permission from Michael and Dominic to be able to use these.
 
-## FUTURE FEATURES
+### Acknowledgments 
+
+- A massive thank you to Mike Sibley who has helped me understand code and worked with me in the beginning to plan out what i was going to do my project on.
+
+- Thank you to Richard Wells for still tutoring me even though i always have so many questions
+
+## Features
+
+My website comprises four primary sections: Home, Annual Events, Transportation, and a Contact Us page, each accessible via the navigation bar.
+
+To vividly portray the essence of Brighton on the main page, I integrated a photo gallery. This decision stemmed from my aspiration to exhibit the city's prominent landmarks and infuse vitality into the homepage. The carefully chosen images, obtained from Brighton Astro, showcase Brighton's iconic features.
+
+Utilizing videos sourced from YouTube, I aimed to offer a glimpse into the various events, providing visitors with insights into the experiences they can anticipate. Additionally, I included links to facilitate transportation options and integrated a Google Maps map of Brighton, ensuring seamless adaptation to various screen sizes, including computers, laptops, tablets, and phones.
 
 
-I wished to enhance my website by incorporating music and adding decorative elements, such as backgrounds and converting the social links into icons, to improve its overall presentation.
+### Future Features 
 
-## FEATURES
+I wished to enhance my website by incorporating music and adding decorative elements such as converting the social links into icons, to improve its overall presentation.
 
-My website features four main sections: Home, Annual Events, Transportation, and a Contact Us page, all of which can be easily navigated via the navigation bar.
 
-To vividly capture and present the essence of Brighton on the main page, I opted for a photo gallery. This choice was driven by the desire to showcase the city's key attractions and breathe life into the homepage. The selected images, all sourced from Pixabay, highlight Brighton's iconic landmarks.
