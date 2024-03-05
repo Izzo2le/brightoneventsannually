@@ -55,6 +55,27 @@ Gitpod was used to write up my code and create my website, this is my main sourc
 
 ## Testing 
 
+### Own Testing 
+
+#### Home page 
+
+- All images on the page when clicked open and show the correct image.
+- All social media links follow through to the correct page
+- All web pages link to correct page work from the home page
+- Web page works and fits perfectly to mobile and tablet screen.
+
+#### Annual Events
+
+- All videos play when clicked, the video for the naked bike ride takes user through to youtube page to verify age.
+- The videos play on mobile and tablet screens also, they fit to the screen size perfectly.
+- Scoail media links take you through to correct social pages.
+- All web pages link to correct page work from the annual events page.
+
+#### Transportation 
+
+= All transportation option links take user through to correct page to help them book transport to Brighton.
+- When clicked to enlarge, map at bottom of the page will open up to 'Google Maps'
+- 
 ### W3C 
 
 Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightgallery code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
