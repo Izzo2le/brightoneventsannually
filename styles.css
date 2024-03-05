@@ -200,6 +200,11 @@ footer {
         padding: 15px;
     }
 }
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust height to center vertically */
 
 @media (max-width: 480px) {
     h1 {
