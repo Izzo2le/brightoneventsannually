@@ -75,7 +75,17 @@ Gitpod was used to write up my code and create my website, this is my main sourc
 
 = All transportation option links take user through to correct page to help them book transport to Brighton.
 - When clicked to enlarge, map at bottom of the page will open up to 'Google Maps'
-- 
+- Scoail media links take you through to correct social pages.
+- All web pages link to correct page work from the transportation page.
+
+#### Get in touch
+
+- 'Email Us' when clicked, opens up the option to send an email
+- Drop down options stay when clicked
+- No message comes up to let user know their email has been sent.
+- Scoail media links take you through to correct social pages.
+- All web pages link to correct page work from the Get in touch page.
+
 ### W3C 
 
 Using W3C showed me all the errors with my website, I tried to take these all in, some of the issues were easily resolvable others i tried to use however they didn't help my website, they were needed for the website to work, alot of the errors were shown with my lightgallery code, however this had all been coded to work together, when I tried to ammend any of it, the feature dissapeared.
