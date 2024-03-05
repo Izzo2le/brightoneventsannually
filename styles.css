@@ -197,7 +197,7 @@ footer {
         width: auto;
         padding: 15px;
     }
-} /* Add this closing curly brace */
+} 
 
 @media (max-width: 480px) {
     h1 {
@@ -221,4 +221,4 @@ footer {
     #navigation a:last-child {
         border-bottom: none;
     }
-} /* Add this closing curly brace */
+} 
