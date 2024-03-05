@@ -157,10 +157,9 @@ input[type="submit"] {
 .map-container {
     position: relative;
     width: 100%;
-    padding-bottom: 56.25%; /* Aspect Ratio 16:9 - adjust as needed for your map */
+    padding-bottom: 56.25%;
     height: 0;
 }
-
 .map-container iframe {
     position: absolute;
     top: 0;
